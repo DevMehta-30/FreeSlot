@@ -177,5 +177,3 @@ def upload():
         #print(dataframe)
         #print("End "+ str(time.time()))
     return dataframe
- 
-app.run(host='localhost', port=5000)
