@@ -1,14 +1,14 @@
 from flask import Flask, render_template, request, redirect, url_for, flash
 
-import cv2
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
+# import cv2
+# import numpy as np
+# import pandas as pd
+# import matplotlib.pyplot as plt
 
-try:
-    from PIL import Image
-except ImportError:
-    import Image
+# try:
+#     from PIL import Image
+# except ImportError:
+#     import Image
 
 app = Flask(__name__)
 
