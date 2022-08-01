@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'stc-freeslotfinder'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FA7D811FF6AE4808AB2C75ADB17ADCD2 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2051426C26D942A9B5CD419832563BDD }}
